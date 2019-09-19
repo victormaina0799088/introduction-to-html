@@ -1,0 +1,9 @@
+1. check of git is installed
+$git --version
+2. identify yourself to git; you need your used name and email to enter
+$git config --global user.name 'yourusername
+$git config --global user.email 'youremail'
+3.create a git folder that will store your code to upload.
+use the below command to create the folderre[res
+$git init
+4.add and folders in the staging area
